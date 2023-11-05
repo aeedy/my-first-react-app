@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hello React App FROM dev2
+        <p style={{backgroundColor : "white", color: "red", padding: "10px" }}>
+          Hello React App FROM version2
         </p>
         <a
           className="App-link"
